@@ -199,6 +199,3 @@ popcorn-cli submit --gpu B200 --leaderboard nvfp4_gemv --mode leaderboard submis
 - **Discord**: GPU MODE server - #nvidia-competition
 - **Competition**: [Luma Event Page](https://luma.com/9n27uem4)
 
----
-
-**Remember**: The goal isn't perfection on day 1, but continuous improvement. Start simple, measure, optimize, repeat!
